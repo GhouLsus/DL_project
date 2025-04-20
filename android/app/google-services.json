@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079359618524",
+    "project_id": "feelai-8a84a",
+    "storage_bucket": "feelai-8a84a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079359618524:android:347c167249a9b140e9e319",
+        "android_client_info": {
+          "package_name": "com.example.dl_proj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6WK8AuCprJ3PAqnpYbWEpFmZueVg2_X0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
